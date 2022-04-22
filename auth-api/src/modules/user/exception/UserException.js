@@ -1,0 +1,5 @@
+
+
+class UserException extends Error {
+    
+}
